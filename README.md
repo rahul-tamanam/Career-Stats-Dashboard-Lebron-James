@@ -1,50 +1,90 @@
-🏀 LeBron James Career Stats Dashboard (2003–2025)
-This is a fun and visually driven Power BI project exploring the legendary NBA career of LeBron James, spanning from 2003 to 2025. The dashboard is designed to showcase key career statistics, trends, and performance highlights using custom visuals and storytelling layouts.
+# 🏀 LeBron James Career Stats Dashboard (2003–2025)
 
-📊 Dashboard Highlights
-Total Career Stats: Points, Assists, Rebounds, Steals (with per-year averages)
+This is a personal Power BI project created to visualize and explore the legendary NBA career of **LeBron James** from 2003 through 2025. The dashboard combines career totals, season-by-season performance, and interactivity to present a compelling narrative of LeBron’s on-court journey.
 
-Trends: Line chart showing points per year across LeBron’s 22-season career
+---
 
-Top 5 Seasons: Highest-scoring seasons with a horizontal bar comparison
+## 📊 Dashboard Highlights
 
-3-PTs Made: Season-by-season bar chart showing LeBron’s three-point evolution
+- **Career Totals with Averages**  
+  Displays total points, assists, rebounds, and steals, alongside season averages.
 
-Personal Bio: Quick player info section with physical stats, teams, and nickname
+- **Points by Year**  
+  A line chart tracking LeBron's scoring trend over his entire career.
 
-🛠️ Tools Used
-Power BI Desktop
+- **Top 5 Scoring Seasons**  
+  A horizontal bar chart showing his highest-scoring individual seasons.
 
-Custom Visuals & Formatting
+- **3-Pointers Made Per Season**  
+  A vertical bar chart showcasing LeBron’s evolution as a perimeter shooter.
 
-Image editing for player cutouts and background styling
+- **Personal Information Card**  
+  Includes player bio, physical stats, teams played for, and nickname.
 
-🎯 Purpose
-This project was created as a personal exercise to:
+---
 
-Practice data visualization and layout design in Power BI
+## 🆕 Interactive Tooltip Feature
 
-Explore narrative data storytelling
+Hovering over any bar in the **3-Pointers Made** chart activates a **custom tooltip** with additional insights for that season:
 
-Experiment with theming and custom formatting
+- 🏀 Games Played  
+- 🟡 Field Goals  
+- 🟠 Free Throws  
 
-Build a portfolio-friendly project that balances fun and functionality
+This improves interactivity and enhances user experience by surfacing detailed data on demand.
 
-📁 Files
-LeBron_James_Stats.pbix — Source Power BI dashboard file
+---
 
-dashboard_screenshot.png — Static preview of the dashboard (see below)
+## 🛠️ Tools & Technologies
 
-(Optional) demo.mp4 or .gif — Demo of the interactive version (if you record one)
+- **Power BI Desktop**
+- Custom card visuals and tooltip pages
+- Image editing for thematic visuals (e.g., player cutout, background layering)
+- Manual/structured data formatting
 
-📌 Notes
-All stats are either estimated or adapted from publicly available data for educational and non-commercial use.
+---
 
-This is not an official NBA or LeBron-endorsed project — purely fan-made for practice and portfolio development.
+## 🎯 Project Purpose
 
-🧠 Learnings
-Custom visuals and thematic styling can enhance storytelling.
+This project was built for fun — but also as a strong portfolio piece to showcase:
 
-Structuring a dashboard around a single subject’s timeline is a great way to practice longitudinal data design.
+- 📐 Dashboard design and layout balance  
+- 📈 Visual storytelling using longitudinal data  
+- 🖌️ Thematic formatting and branding in Power BI  
+- 🧠 Ability to create interactive, user-focused insights
 
-Even non-corporate, passion-driven projects can be strong portfolio assets.
+---
+
+## 📁 Included Files
+
+- `LeBron_James_Stats.pbix` — Power BI dashboard file  
+- `dashboard_screenshot.png` — Static dashboard preview  
+- `tooltip_demo.png` — Snapshot of custom tooltip in action  
+- *(Optional)* `demo.mp4` — Video or GIF of interactive version (if available)
+
+---
+
+## 📌 Notes
+
+- All data is either estimated or publicly available for **non-commercial, educational** use.
+- This is a **fan-made project** with no official affiliation with LeBron James, the NBA, or any related entities.
+
+---
+
+## 🧠 Key Takeaways
+
+- Even casual/personal dashboards can be powerful portfolio additions.
+- Dynamic visual elements (like tooltips) make dashboards **more interactive** and **user-friendly**.
+- Structuring dashboards around timelines or career arcs can be a great way to **practice storytelling with data**.
+
+---
+
+## 🔗 Preview
+
+> You can include screenshots or a link to a hosted demo/report here (e.g., Power BI Service or embedded version)
+
+---
+
+**Created by:** [Your Name]  
+**GitHub Repo:** [`lebron-career-dashboard`](https://github.com/yourusername/lebron-career-dashboard)
+
