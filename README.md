@@ -57,7 +57,7 @@ This project was built for fun — but also as a strong portfolio piece to showc
 
 ## 📁 Included Files
 
-- `LeBron_James_Stats.pbix` — Power BI dashboard file  
+- `lebron stats.pbix` — Power BI dashboard file  
 - `dashboard_screenshot.png` — Static dashboard preview  
 - `tooltip_demo.png` — Snapshot of custom tooltip in action  
 - *(Optional)* `demo.mp4` — Video or GIF of interactive version (if available)
@@ -79,12 +79,5 @@ This project was built for fun — but also as a strong portfolio piece to showc
 
 ---
 
-## 🔗 Preview
 
-> You can include screenshots or a link to a hosted demo/report here (e.g., Power BI Service or embedded version)
-
----
-
-**Created by:** [Your Name]  
-**GitHub Repo:** [`lebron-career-dashboard`](https://github.com/yourusername/lebron-career-dashboard)
 
