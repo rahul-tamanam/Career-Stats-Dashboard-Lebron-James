@@ -59,7 +59,7 @@ This project was built for fun — but also as a strong portfolio piece to showc
 
 - `lebron stats.pbix` — Power BI dashboard file  
 - `dashboard_screenshot.png` — Static dashboard preview  
-- `tooltip_demo.png` — Snapshot of custom tooltip in action  
+- `tooltip.png` — Snapshot of custom tooltip in action  
 - *(Optional)* `demo.mp4` — Video or GIF of interactive version (if available)
 
 ---
