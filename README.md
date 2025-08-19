@@ -1,6 +1,6 @@
 # 🏀 LeBron James Career Stats Dashboard (2003–2025)
 
-This is a personal Power BI project created to visualize and explore the legendary NBA career of **LeBron James** from 2003 through 2025. The dashboard combines career totals, season-by-season performance, and interactivity to present a compelling narrative of LeBron’s on-court journey.
+This is a fun little Power BI project created to visualize and explore the legendary NBA career of **LeBron James** from 2003 through 2025. The dashboard combines career totals, season-by-season performance, and interactivity to present a compelling narrative of LeBron’s on-court journey.
 
 ---
 
